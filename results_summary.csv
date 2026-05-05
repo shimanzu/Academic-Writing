@@ -1,0 +1,16 @@
+Category,Size,Algorithm,AvgTime(us),AvgComparisons,AvgSwaps,Count
+nearly,10000,InsertionSort,2079,677102,667103,295
+nearly,10000,MergeSort,1984,100172,100172,295
+nearly,10000,QuickSort,7358,1930763,1181022,295
+nearly,1000,InsertionSort,25,7744,6745,300
+nearly,1000,MergeSort,181,6594,6594,300
+nearly,1000,QuickSort,557,141680,100043,300
+random,100000,InsertionSort,11282655,2500247603,2500147614,300
+random,100000,MergeSort,43387,1536369,1536369,300
+random,100000,QuickSort,17098,2043907,1019590,300
+random,10000,InsertionSort,91748,25019295,25009304,300
+random,10000,MergeSort,2776,120445,120445,300
+random,10000,QuickSort,1177,156814,84076,300
+random,1000,InsertionSort,910,250597,249604,300
+random,1000,MergeSort,284,8706,8706,300
+random,1000,QuickSort,100,11024,6138,300
